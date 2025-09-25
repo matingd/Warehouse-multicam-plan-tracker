@@ -12,10 +12,10 @@ The system produces a **bird’s-eye view plan** alongside video feeds, enabling
 
 ## 🔹 Pipeline
 
-1. **Detection**  
+1. - **Detection**: [YOLOv11](https://github.com/ultralytics/ultralytics) (fine-tuned on PhysicalAI-SmartSpaces/MTMC_Tracking_2025 dataset).
    - Real-time object detection with bounding boxes and confidence scores.  
 
-2. **Re-Identification (ReID)**  
+2. - **Re-Identification (ReID)**: [TransReID-SSL](https://github.com/damo-cv/TransReID-SSL), fine-tuned on the PhysicalAI-SmartSpaces/MTMC_Tracking_2025/train/Warehouse_000 dataset.
    - Extracts embeddings for appearance matching.  
    - Uses **DBSCAN** to split duplicate IDs.  
 
@@ -69,6 +69,17 @@ Each row shows multiple camera views, with the **center video being the global f
 This project uses the [PhysicalAI-SmartSpaces dataset](https://huggingface.co/datasets/nvidia/PhysicalAI-SmartSpaces), part of the [AI City Challenge](https://www.aicitychallenge.org/).
 
 ### References
+- TransReID-SSL:
+```bibtex
+@article{luo2021self,
+  title={Self-Supervised Pre-Training for Transformer-Based Person Re-Identification},
+  author={Luo, Hao and Wang, Pichao and Xu, Yi and Ding, Feng and Zhou, Yanxin and Wang, Fan and Li, Hao and Jin, Rong},
+  journal={arXiv preprint arXiv:2111.12084},
+  year={2021}
+}
+```
+---
+
 Please cite the following when using this dataset:
 
 ```bibtex
