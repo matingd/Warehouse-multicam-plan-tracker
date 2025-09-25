@@ -47,7 +47,11 @@ Each row shows multiple camera views, with the **center video being the global f
 
 <table>
 <tr>
-<td><video width="250" controls><source src="https://raw.githubusercontent.com/matingd/Warehouse-multicam-plan-tracker/main/assets/Camera_0002_output.mp4" type="video/mp4"></video></td>
+<td><video width="250" controls>
+  <source src="https://raw.githubusercontent.com/matingd/Warehouse-multicam-plan-tracker/main/assets/Camera_0000_output.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+</td>
 <td><video src="assets/Camera_0001_output.mp4" width="250" controls></video></td>
 <td><video src="assets/Camera_0002_output.mp4" width="250" controls></video></td>
 </tr>
