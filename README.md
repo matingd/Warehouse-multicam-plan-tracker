@@ -47,19 +47,23 @@ Each row shows multiple camera views, with the **center video being the global f
 
 <table>
 <tr>
-<td><video src="videos/cam1.mp4" width="250" controls></video></td>
-<td><video src="videos/cam2.mp4" width="250" controls></video></td>
-<td><video src="videos/cam3.mp4" width="250" controls></video></td>
+<td><video width="250" controls>
+  <source src="[https://raw.githubusercontent.com/matingd/Warehouse-multicam-plan-tracker/main/assets/Camera_0000_output.mp4](https://raw.githubusercontent.com/matingd/Warehouse-multicam-plan-tracker/main/assets/Camera_0000_output.mp4)" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+</td>
+<td><video src="assets/Camera_0001_output.mp4" width="250" controls></video></td>
+<td><video src="assets/Camera_0002_output.mp4" width="250" controls></video></td>
 </tr>
 <tr>
-<td><video src="videos/cam4.mp4" width="250" controls></video></td>
-<td><video src="videos/plan.mp4" width="250" controls></video></td>
-<td><video src="videos/cam5.mp4" width="250" controls></video></td>
+<td><video src="assets/Camera_0003_output.mp4" width="250" controls></video></td>
+<td><video src="assets/plan_output.mp4" width="250" controls></video></td>
+<td><video src="assets/Camera_0014_output.mp4" width="250" controls></video></td>
 </tr>
 <tr>
-<td><video src="videos/cam6.mp4" width="250" controls></video></td>
-<td><video src="videos/cam7.mp4" width="250" controls></video></td>
-<td><video src="videos/cam8.mp4" width="250" controls></video></td>
+<td><video src="assets/Camera_0017_output.mp4" width="250" controls></video></td>
+<td><video src="assets/Camera_0020_output.mp4" width="250" controls></video></td>
+<td><video src="assets/Camera_0022_output.mp4" width="250" controls></video></td>
 </tr>
 </table>
 
