@@ -47,8 +47,7 @@ Each row shows multiple camera views, with the **center video being the global f
 
 <table>
 <tr>
-<td><img src="assets/Camera_0001_output.gif" width="250" alt="Camera output">
-
+<td><img src="https://raw.githubusercontent.com/matingd/Warehouse-multicam-plan-tracker/main/assets/Camera_0001_output.gif" width="250" alt="Camera output">
 </td>
 <td><video src="assets/Camera_0001_output.mp4" width="250" controls></video></td>
 <td><video src="assets/Camera_0002_output.mp4" width="250" controls></video></td>
