@@ -46,23 +46,28 @@ Below are qualitative results.
 Each row shows multiple camera views, with the **center video being the global floor plan** (bird’s-eye view).
 
 <table>
-<tr>
-<td><img src="https://raw.githubusercontent.com/matingd/Warehouse-multicam-plan-tracker/main/assets/Camera_0001_output.gif" width="250" alt="Camera output">
-</td>
-<td><video src="assets/Camera_0001_output.mp4" width="250" controls></video></td>
-<td><video src="assets/Camera_0002_output.mp4" width="250" controls></video></td>
-</tr>
-<tr>
-<td><video src="assets/Camera_0003_output.mp4" width="250" controls></video></td>
-<td><video src="assets/plan_output.mp4" width="250" controls></video></td>
-<td><video src="assets/Camera_0014_output.mp4" width="250" controls></video></td>
-</tr>
-<tr>
-<td><video src="assets/Camera_0017_output.mp4" width="250" controls></video></td>
-<td><video src="assets/Camera_0020_output.mp4" width="250" controls></video></td>
-<td><video src="assets/Camera_0022_output.mp4" width="250" controls></video></td>
-</tr>
+   
+  <tr>
+    <td><img src="assets/sample_shot/1.png" width="150"></td>
+    <td><img src="assets/sample_shot/2.png" width="150"></td>
+    <td><img src="assets/sample_shot/3.png" width="150"></td>
+    <td rowspan="3"><img src="assets/sample_shot/plan.png" width="150"></td>
+  </tr>
+  
+  <tr>
+    <td><img src="assets/sample_shot/4.png" width="150"></td>
+    <td><img src="assets/sample_shot/5.png" width="150"></td>
+    <td><img src="assets/sample_shot/6.png" width="150"></td>
+  </tr>
+  
+  <tr>
+    <td><img src="assets/sample_shot/7.png" width="150"></td>
+    <td><img src="assets/sample_shot/8.png" width="150"></td>
+    <td><img src="assets/sample_shot/9.png" width="150"></td>
+  </tr>
+  
 </table>
+
 
 ---
 
