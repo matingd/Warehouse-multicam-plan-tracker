@@ -24,6 +24,7 @@ The system produces a **bird’s-eye view plan** alongside video feeds, enabling
    - Normalizes to 2D floor plan for visualization.  
    - Applies smoothing and median filtering to reduce jitter.  
 
+- [Download fine-tuned model](https://drive.google.com/drive/folders/1wthMwZPxbI2f6M76pGECw4Ix_OBAZ8bs?usp=drive_link)
 ---
 
 ## 🔹 Results
