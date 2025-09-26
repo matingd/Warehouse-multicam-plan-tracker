@@ -46,26 +46,7 @@ Below are qualitative results.
 Each row shows multiple camera views, with the **center video being the global floor plan** (bird’s-eye view).
 
 <table>
-   
   <tr>
-<<<<<<< HEAD
-    <td><img src="assets/sample_shot/1.png" width="150"></td>
-    <td><img src="assets/sample_shot/2.png" width="150"></td>
-    <td><img src="assets/sample_shot/3.png" width="150"></td>
-    <td rowspan="3"><img src="assets/sample_shot/plan.png" width="150"></td>
-  </tr>
-  
-  <tr>
-    <td><img src="assets/sample_shot/4.png" width="150"></td>
-    <td><img src="assets/sample_shot/5.png" width="150"></td>
-    <td><img src="assets/sample_shot/6.png" width="150"></td>
-  </tr>
-  
-  <tr>
-    <td><img src="assets/sample_shot/7.png" width="150"></td>
-    <td><img src="assets/sample_shot/8.png" width="150"></td>
-    <td><img src="assets/sample_shot/9.png" width="150"></td>
-=======
     <td><img src="assets/sample_shot/1.png" width="200"></td>
     <td><img src="assets/sample_shot/2.png" width="200"></td>
     <td><img src="assets/sample_shot/3.png" width="200"></td>
@@ -82,7 +63,6 @@ Each row shows multiple camera views, with the **center video being the global f
     <td><img src="assets/sample_shot/7.png" width="200"></td>
     <td><img src="assets/sample_shot/8.png" width="200"></td>
     <td><img src="assets/sample_shot/9.png" width="200"></td>
->>>>>>> d8388928c1070e4ef86cee5054df2fd6cdcac314
   </tr>
   
 </table>
