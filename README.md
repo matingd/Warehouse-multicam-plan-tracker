@@ -40,7 +40,7 @@ The system produces a **bird’s-eye view plan** alongside video feeds, enabling
 
 ---
 
-## 🔹 Demo Videos
+## 🔹 Demo Images
 
 Below are qualitative results.  
 Each row shows multiple camera views, with the **center video being the global floor plan** (bird’s-eye view).
@@ -48,22 +48,22 @@ Each row shows multiple camera views, with the **center video being the global f
 <table>
    
   <tr>
-    <td><img src="assets/sample_shot/1.png" width="150"></td>
-    <td><img src="assets/sample_shot/2.png" width="150"></td>
-    <td><img src="assets/sample_shot/3.png" width="150"></td>
-    <td rowspan="3"><img src="assets/sample_shot/plan.png" width="150"></td>
+    <td><img src="assets/sample_shot/1.png" width="200"></td>
+    <td><img src="assets/sample_shot/2.png" width="200"></td>
+    <td><img src="assets/sample_shot/3.png" width="200"></td>
+    <td rowspan="3"><img src="assets/sample_shot/plan.png" width="300" height="600"></td>
   </tr>
   
   <tr>
-    <td><img src="assets/sample_shot/4.png" width="150"></td>
-    <td><img src="assets/sample_shot/5.png" width="150"></td>
-    <td><img src="assets/sample_shot/6.png" width="150"></td>
+    <td><img src="assets/sample_shot/4.png" width="200"></td>
+    <td><img src="assets/sample_shot/5.png" width="200"></td>
+    <td><img src="assets/sample_shot/6.png" width="200"></td>
   </tr>
   
   <tr>
-    <td><img src="assets/sample_shot/7.png" width="150"></td>
-    <td><img src="assets/sample_shot/8.png" width="150"></td>
-    <td><img src="assets/sample_shot/9.png" width="150"></td>
+    <td><img src="assets/sample_shot/7.png" width="200"></td>
+    <td><img src="assets/sample_shot/8.png" width="200"></td>
+    <td><img src="assets/sample_shot/9.png" width="200"></td>
   </tr>
   
 </table>
