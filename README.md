@@ -40,6 +40,15 @@ The system produces a **bird’s-eye view plan** alongside video feeds, enabling
 
 ---
 
+## 🛠️ Setup & Installation
+
+**Prerequisites**
+
+```bash
+python >=3.8
+pip install -r requirements.txt
+```
+
 ## 🔹 Demo Images
 
 Below are qualitative results.  
